@@ -62,7 +62,7 @@ Here are some ideas to get you started:
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 ![Xcode](https://img.shields.io/badge/Xcode-0D1117?style=for-the-badge&logo=Xcode&logoColor=white)&nbsp;
-![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=0D1117&color=0D1117&labelColor=white)&nbsp;
+![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=white&color=0D1117&labelColor=white)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-0D1117?style=for-the-badge&logo=adobe-photoshop&labelColor=0D1117)&nbsp;
 
 
