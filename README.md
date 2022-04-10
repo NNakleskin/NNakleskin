@@ -64,6 +64,9 @@ Here are some ideas to get you started:
 ![Sublime Text](https://img.shields.io/badge/sublime_text-0D1117.svg?style=for-the-badge&logo=sublime-text&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-0D1117?style=for-the-badge&logo=adobe-photoshop&labelColor=0D1117&logoColor=white)
 
+###Studying now:
+![Instagram](https://img.shields.io/badge/-ASSEMBLER-0D1117.svg?style=for-the-badge&logoColor=white)
+
 ### Coming soon:
 ![C++](https://img.shields.io/badge/c++-0D1117.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-0D1117.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -72,6 +75,8 @@ Here are some ideas to get you started:
 <a href="https://t.me/nakleskin">![Telegram](https://img.shields.io/badge/Telegram-0D1117.svg?style=for-the-badge&logo=telegram&logoColor=white) </a>
 <a href="https://www.linkedin.com/in/nikita-nakleskin-b35b76236/">![LinkedIn](https://img.shields.io/badge/linkedin-0D1117.svg?style=for-the-badge&logo=linkedin&logoColor=white) </a>
 <a href="https://www.instagram.com/nikita_naklekskin/">![Instagram](https://img.shields.io/badge/-instagram-0D1117.svg?style=for-the-badge&logo=Instagram&logoColor=white) </a>
+
+
 
 
 <div align="center">
