@@ -65,7 +65,8 @@ Here are some ideas to get you started:
 ![Photoshop](https://img.shields.io/badge/-Photoshop-0D1117?style=for-the-badge&logo=adobe-photoshop&labelColor=0D1117&logoColor=white)
 
 ### Studying now:
-![Instagram](https://img.shields.io/badge/-ASSEMBLER-0D1117.svg?style=for-the-badge&logoColor=white)
+![ASSEMBLER](https://img.shields.io/badge/-ASSEMBLER-0D1117.svg?style=for-the-badge&logoColor=white)
+![Swift](https://img.shields.io/badge/swift-0D1117?style=for-the-badge&logo=swift&logoColor=white)
 
 ### Coming soon:
 ![C++](https://img.shields.io/badge/c++-0D1117.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
