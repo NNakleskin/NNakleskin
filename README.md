@@ -61,7 +61,7 @@ Here are some ideas to get you started:
 ![Xcode](https://img.shields.io/badge/Xcode-0D1117?style=for-the-badge&logo=Xcode&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=white&color=0D1117&labelColor=0D1117)
 ![AWS](https://img.shields.io/badge/AWS-0D1117.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Sublime Text](https://img.shields.io/badge/sublime_text-0D1117.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
+![Sublime Text](https://img.shields.io/badge/sublime_text-0D1117.svg?style=for-the-badge&logo=sublime-text&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-0D1117?style=for-the-badge&logo=adobe-photoshop&labelColor=0D1117&logoColor=white)
 
 ### Coming soon:
@@ -69,7 +69,7 @@ Here are some ideas to get you started:
 ![MySQL](https://img.shields.io/badge/mysql-0D1117.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Contacts:
-<a href="https://t.me/nakleskin">![Telegram](https://img.shields.io/badge/Telegram-0D1117?style=for-the-badge&logo=telegram&logoColor=white) </a>
+<a href="https://t.me/nakleskin">![Telegram](https://img.shields.io/badge/Telegram-0D1117.svg?style=for-the-badge&logo=telegram&logoColor=white) </a>
 <a href="https://www.linkedin.com/in/nikita-nakleskin-b35b76236/">![LinkedIn](https://img.shields.io/badge/linkedin-0D1117.svg?style=for-the-badge&logo=linkedin&logoColor=white) </a>
 <a href="https://www.instagram.com/nikita_naklekskin/">![Instagram](https://img.shields.io/badge/-instagram-0D1117.svg?style=for-the-badge&logo=Instagram&logoColor=white) </a>
 
