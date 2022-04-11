@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Hello,+world!;My+name+is+Nakleskin+Nikita;I'm+a+student+of+CMC+MSU;)](https://git.io/typing-svg)
  
 <div align="center">
-   <img width="90%" src="https://activity-graph.herokuapp.com/graph?username=NNAkleskin&theme=react-dark&hide_border=true&area=true&color=FFFFFF" />
+   <img width="90%" src="https://activity-graph.herokuapp.com/graph?username=NNAkleskin&theme=react-dark&hide_border=true&area=true&color=FFFFFF&line=FFFFFF&area_color=FFFFFF" />
 <!--  ![Contribution](https://activity-graph.herokuapp.com/graph?username=NNakleskin&theme=react-dark&hide_border=true&area=true) -->
 </div> 
 
