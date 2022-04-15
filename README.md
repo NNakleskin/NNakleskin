@@ -62,7 +62,7 @@ Here are some ideas to get you started:
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=white&color=0D1117&labelColor=0D1117)
 ![AWS](https://img.shields.io/badge/AWS-0D1117.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Sublime Text](https://img.shields.io/badge/sublime_text-0D1117.svg?style=for-the-badge&logo=sublime-text&logoColor=white)
-![Photoshop](https://img.shields.io/badge/-Photoshop-0D1117?style=for-the-badge&logo=adobe-photoshop&labelColor=0D1117&logoColor=white)
+
 
 ### Studying now:
 ![ASSEMBLER](https://img.shields.io/badge/-ASSEMBLER-0D1117.svg?style=for-the-badge&logoColor=white)
